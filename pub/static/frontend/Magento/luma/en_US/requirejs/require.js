@@ -1,0 +1,1 @@
+/home/andrej/magento-task/lib/web/requirejs/require.js

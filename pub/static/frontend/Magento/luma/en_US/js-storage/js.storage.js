@@ -1,0 +1,1 @@
+/home/andrej/magento-task/lib/web/js-storage/js.storage.js
